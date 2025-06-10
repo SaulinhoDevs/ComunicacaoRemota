@@ -1,0 +1,5 @@
+Relatório de Pedidos do Dia
+===========================
+Pedido #1 de Flávio Costa: Hambúrguer
+Pedido #2 de Flávio Costa: Refrigerante
+Pedido #3 de Flávio Costa: Batata Frita
