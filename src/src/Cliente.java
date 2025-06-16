@@ -22,7 +22,7 @@ public class Cliente {
 
                 if (escolha == 0) {
                     continuar = false;
-                    System.out.println("Saindo... Obrigado!");
+                    System.out.println("\nSaindo... Obrigado!");
                     break;
                 }
 
@@ -33,12 +33,13 @@ public class Cliente {
                     case 3: item = "Refrigerante"; break;
                     case 4: item = "Batata Frita"; break;
                     default:
-                        System.out.println("Opção inválida!");
+                        System.out.println("\nOpção inválida!\n");
                         continue;
                 }
 
                 String resposta = stub.fazerPedido(nome, item);
-                System.out.println("Resposta do servidor: " + resposta);
+                System.out.println("\nResposta do servidor: " + resposta);
+                System.out.println("Deseja fazer outro pedido? \n");
             }
 
         } catch (Exception e) {

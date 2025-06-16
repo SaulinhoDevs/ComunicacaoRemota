@@ -1,7 +1,9 @@
-RelatÃ³rio de Pedidos do Dia
+Relatório de Pedidos do Dia
 ===========================
-Pedido #1 de Saulo Melo: HambÃºrguer
-Pedido #2 de FlÃ¡vio Costa: Pizza
-Pedido #3 de Saulo Melo: Refrigerante
-Pedido #4 de Saulo Melo: Batata Frita
-Pedido #5 de FlÃ¡vio Costa: Refrigerante
+Pedido #1 de Flavio: Hambúrguer
+Pedido #2 de Flavio: Hambúrguer
+Pedido #3 de Flavio: Pizza
+Pedido #4 de Flavio: Refrigerante
+Pedido #5 de igor: Pizza
+Pedido #6 de saulo: Batata Frita
+Pedido #7 de felipe: Batata Frita
