@@ -9,7 +9,7 @@ public class Cliente {
             Pedido stub = (Pedido) registry.lookup("PedidoService");
 
             Scanner sc = new Scanner(System.in);
-            System.out.print("Digite seu nome: ");
+            System.out.print("\nDigite seu nome: ");
             String nome = sc.nextLine();
 
             boolean continuar = true;
