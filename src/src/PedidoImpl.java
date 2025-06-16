@@ -19,7 +19,7 @@ public class PedidoImpl extends UnicastRemoteObject implements Pedido {
     }
 
     public String listarCardapio() {
-        StringBuilder sb = new StringBuilder("Cardápio:\n");
+        StringBuilder sb = new StringBuilder("\nCardápio:\n");
         for (Map.Entry<Integer, String> item : cardapio.entrySet()) {
             sb.append(item.getKey()).append(" - ").append(item.getValue()).append("\n");
         }

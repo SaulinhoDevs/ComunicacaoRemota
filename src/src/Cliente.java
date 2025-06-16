@@ -39,7 +39,7 @@ public class Cliente {
 
                 String resposta = stub.fazerPedido(nome, item);
                 System.out.println("\nResposta do servidor: " + resposta);
-                System.out.println("Deseja fazer outro pedido? \n");
+                System.out.println("Deseja fazer outro pedido?");
             }
 
         } catch (Exception e) {

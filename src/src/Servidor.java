@@ -12,7 +12,7 @@ public class Servidor {
 
             // Espera comando para encerrar
             Scanner sc = new Scanner(System.in);
-            System.out.println("[SERVIDOR] Digite 'sair' para encerrar e salvar pedidos:");
+            System.out.println("[SERVIDOR] Digite 'sair' para encerrar e salvar pedidos:\n");
             while (true) {
                 String comando = sc.nextLine();
                 if (comando.equalsIgnoreCase("sair")) {

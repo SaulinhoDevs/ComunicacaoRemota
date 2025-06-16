@@ -1,9 +1,6 @@
 Relatório de Pedidos do Dia
 ===========================
-Pedido #1 de Flavio: Hambúrguer
-Pedido #2 de Flavio: Hambúrguer
-Pedido #3 de Flavio: Pizza
-Pedido #4 de Flavio: Refrigerante
-Pedido #5 de igor: Pizza
-Pedido #6 de saulo: Batata Frita
-Pedido #7 de felipe: Batata Frita
+Pedido #1 de saulo: Batata Frita
+Pedido #2 de mateus: Pizza
+Pedido #3 de mateus: Hambúrguer
+Pedido #4 de mateus: Refrigerante
